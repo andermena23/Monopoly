@@ -47,11 +47,10 @@
 	<properties>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
-
-		<sonar.organization>your organization</sonar.organization>
+		<sonar.organization>andermena23</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>project key</sonar.projectKey>
-		<sonar.login>yourToken</sonar.login>
+		<sonar.projectKey>andermena23_Monopoly</sonar.projectKey>
+		<sonar.login>344776d5188a9e5e94dd4e333f945fb50669558b</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
